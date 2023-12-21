@@ -2,6 +2,7 @@ Usei ngrok para subir o servidor
 
 além das requiriments para o python
 
+## django, ffmpeg, cv2, numpy...
 
 dentro de static tem alguns arquivos importantes como:
 
