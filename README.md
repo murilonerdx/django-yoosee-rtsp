@@ -11,5 +11,5 @@ dentro de static tem alguns arquivos importantes como:
 ## convert-hls: é importante deixar isso executando ele transforma em um formato compativel para video, ele fica convertendo a imagem em tempo real, rode isso enquanto roda seu projeto
 
 
-## dentro do arquivo convert-hls você precisa configurar o rtsp e também ajudar para a pasta do seu projeto, importante edixar dentro da pasta static 
+## dentro do arquivo convert-hls você precisa configurar o rtsp e também ajustar para a pasta do seu projeto, importante edixar dentro da pasta static 
 ## dentro do myproject: execute o run_server caso ele não abra, edite o arquivo mudando a porta.
