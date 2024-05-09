@@ -11,7 +11,7 @@ import numpy as np
 
 import cv2
 
-além das requiriments para o python
+além das requirements para o python
 
 ## django, ffmpeg, cv2, numpy...
 
