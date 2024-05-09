@@ -1,7 +1,14 @@
 Usei ngrok para subir o servidor
+
 Baixe algumas das dependencias sugeridas, além do VLC que é util
+
+
 import ffmpeg 
+
+
 import numpy as np
+
+
 import cv2
 
 além das requiriments para o python
